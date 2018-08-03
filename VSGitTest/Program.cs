@@ -12,6 +12,9 @@ namespace VSGitTest
         {
             ;
             // new branch
+
+            ;
+            // more stuff
         }
     }
 }
