@@ -10,6 +10,8 @@ namespace VSGitTest
     {
         static void Main(string[] args)
         {
+            ;
+            // new branch
         }
     }
 }
