@@ -17,6 +17,8 @@ namespace VSGitTest
             // more stuff
 
             //master
+
+            // newdev
         }
     }
 }
